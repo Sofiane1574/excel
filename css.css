@@ -13,5 +13,5 @@ body {background-color: #FE1650;margin: 13px;}
 	#srcp1 {width:120px;height:120px;position:relative;left:20px;clear:left;}
 	.font1 {font-size:1.6em;font-style: italic;color:white;text-shadow:-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;color:#FE1650;float: right;position: relative;top:.8em;right: 2em;}
 	#r {position:absolute;top:50px;left:150px;}
-	.vd {border:2px solid black; background-color: black;width: 100%;}
+	.vd {border:2px solid black; background-color: black;width: 100%;float:left;}
 	a#scs:nth-child(n):hover{background-color:black;color:red;font-size:1.002em;border:2px solid gold;padding:2px 6px 2px 6px;}
