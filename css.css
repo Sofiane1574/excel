@@ -22,7 +22,7 @@ body {background-color: #FE1650;margin: 13px;}
 			clear:left;
 		
 		}
-		* {font-size: .5em;}
-		element > video { width:40px;}
+		* {font-size:3vw;}
+		element > video { width:80vw;height:auto;}
 		
 	}
