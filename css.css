@@ -1,4 +1,7 @@
-	body {background-color: #FE1650;margin: 13px;} #node {font-size: 4em;color:black;text-shadow: 2px 2px white;text-align:center;} #hh {font-size: 2em;text-align:center;color:white;margin-bottom: 3000px; } #sss {font-size: 40px;text-align:right;} a:nth-child(n):hover{background-color:black;color:red;font-size:1.002em;border:2px solid gold;padding:2px 6px 2px 6px; }
+	body {background-color: #FE1650;margin: 13px;} #node {font-size: 4em;color:black;text-shadow: 2px 2px white;text-align:center;}
+	 #hh {font-size: 2em;text-align:center;color:white;margin-bottom: 3000px; }
+	  #sss {font-size: 40px;text-align:right;}
+	   a:nth-child(n):hover{background-color:black;color:red;font-size:1.002em;border:2px solid gold;padding:2px 6px 2px 6px; }
 body {background-color: #FE1650;margin: 13px;}
 	#naving {
 		text-align:left;
@@ -20,9 +23,8 @@ body {background-color: #FE1650;margin: 13px;}
 		element {
 			float:left;
 			clear:left;
-		
 		}
-		* {font-size:3vw;}
-		element > video { width:80vw;height:auto;}
-		
+		* {font-size: 2vw;}
+		#scs {position:relative;top:1vw;right:2vw;}
+		#srcp1 {width:70px;height:70px;}
 	}
